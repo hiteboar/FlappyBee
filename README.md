@@ -1,4 +1,5 @@
 # FLAPPY BEE #
+<img  align="right" src="https://github.com/user-attachments/assets/90c649dc-b094-4bfd-8fc6-5e2a5c108141" width="200"/>
 
 ## Game description ##
 FlappyBee is a mobile game made with Unity3D. In it you will have to avoid to collide with the tree trunks as much as you can.
